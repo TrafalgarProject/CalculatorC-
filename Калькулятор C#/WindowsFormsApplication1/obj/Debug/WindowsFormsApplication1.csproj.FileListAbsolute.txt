@@ -1,0 +1,18 @@
+C:\Users\Минато\Desktop\калькулятор C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Минато\Desktop\калькулятор C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Минато\Desktop\калькулятор C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Минато\Desktop\калькулятор C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Минато\Desktop\калькулятор C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Минато\Desktop\калькулятор C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Минато\Desktop\калькулятор C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Минато\Desktop\калькулятор C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Минато\Desktop\калькулятор C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Калькулятор C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Калькулятор C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Калькулятор C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Калькулятор C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Калькулятор C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Калькулятор C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Калькулятор C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Калькулятор C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Калькулятор C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
